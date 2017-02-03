@@ -6,3 +6,8 @@ Saltanite
 SAlt Salt Mines
 Salt Great Salt Lake
 Salt Plains
+
+Characters:
+FORMAT: name - occupation - realm, realm area
+Quinoa - Salt Snake - Salt Forrest, Salt Grasslands
+Ten Bopham - Salt Soldier - Saltanite, Slums
