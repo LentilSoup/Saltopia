@@ -11,3 +11,6 @@ Characters:
 FORMAT: name - occupation - realm, realm area
 Quinoa - Salt Snake - Salt Forrest, Salt Grasslands
 Ten Bopham - Salt Soldier - Saltanite, Slums
+
+Events:
+First great Salt war - A rising tension between the Salt forrest and the Saltanite breaks out into the Saltanite leading an invasion into the 
