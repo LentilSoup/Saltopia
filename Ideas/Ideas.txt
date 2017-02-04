@@ -1,7 +1,7 @@
 Saltopia:
 
 Realms:
-Salt Great Salt Forrest
+Salt Great Salt Forest
 Saltanite
 SAlt Salt Mines
 Salt Great Salt Lake
@@ -9,11 +9,11 @@ Salt Plains
 
 Characters:
 FORMAT: name - occupation - realm, realm area
-Quinoa - Salt Snake - Salt Forrest, Salt Grasslands
+Quinoa - Salt Snake - Salt Forest, Salt Grasslands
 Ten Bopham - Salt Soldier - Saltanite, Slums
 Saltanite - Salt Baron - Saltanite, Palace
 
 Events:
-First great Salt war - A rising tension between the Salt forrest and the Saltanite breaks out into 
-the Saltanite leading an invasion into the Salt forrest at a great cost to both sides in the conflict but ultimately ends with
-the Saltanite retreating out of the Salt forrest
+First great Salt war - A rising tension between the Salt forest and the Saltanite breaks out into 
+the Saltanite leading an invasion into the Salt forest at a great cost to both sides in the conflict but ultimately ends with
+the Saltanite retreating out of the Salt forest
