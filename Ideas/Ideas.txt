@@ -14,6 +14,4 @@ Ten Bopham - Salt Soldier - Saltanite, Slums
 Saltanite - Salt Baron - Saltanite, Palace
 
 Events:
-First great Salt war - A rising tension between the Salt forest and the Saltanite breaks out into 
-the Saltanite leading an invasion into the Salt forest at a great cost to both sides in the conflict but ultimately ends with
-the Saltanite retreating out of the Salt forest
+First great Salt war
